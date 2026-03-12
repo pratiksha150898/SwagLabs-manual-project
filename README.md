@@ -1,4 +1,5 @@
 Swag Labs Demo Project
+
 Swag Labs is an e-commerce demo web application designed to simulate a real online shopping platform. It allows users to browse products, add items to the cart, manage the cart, and complete the checkout process. The application helps testers practice functional testing, UI testing, and end-to-end workflow testing in a realistic environment.
 
 Role: Manual Tester
